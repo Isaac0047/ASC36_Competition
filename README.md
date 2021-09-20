@@ -1,7 +1,5 @@
 # ASC36_Competition
-This repository contains the files for ASC36 Student Competition
-
-This folder contains the code and presentation for 36th ASC Student Competition.
+This repository contains the files for ASC36 Student Competition, Team UW-Madison.
 
 The files description are as follows:
 
