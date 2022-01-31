@@ -1,5 +1,5 @@
 # ASC36_Competition
-This repository contains the files for ASC36 Student Competition, Team UW-Madison.
+This repository contains the files for ASC36 Student Competition, Team UW-Madison. (We are the Champion of this Competition)
 
 The files description are as follows:
 
